@@ -1,0 +1,30 @@
+#gta6{
+    font-size:large;
+    
+}
+
+#header {
+background-color: #fc0000;
+height: 100px;
+}
+#content{
+background-color: #b3b3b3;
+height: 100px;
+
+display: flex;
+flex-wrap: wrap;
+}
+#footer{
+    background-color: #b3b3b3;
+    height: 100px;
+}   
+.product {
+    border: 1px solid #787878;
+    padding: 10px;           /* ruimte binnen het product */
+    margin-bottom: 20px;     /* ruimte onder elk product */
+    width: 400px;
+}
+
+.product img {
+    width: 200px;               /* alle productfoto's even breed */
+}
